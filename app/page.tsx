@@ -22,7 +22,7 @@ export default function Page() {
       <section id="top" className="hero container">
         <div className="hero-copy">
           <p className="eyebrow"><span /> Student productivity project</p>
-          <h1>Stay organized</h1>
+          <h1>Stay Organized</h1>
           <p className="hero-text">A simple desktop task manager designed to help students turn academic responsibilities into a clear, manageable plan.</p>
           <a className="button button-dark" href="#about">Explore the project <span aria-hidden="true">↓</span></a>
         </div>
