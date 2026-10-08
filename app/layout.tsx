@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Student Study Planner | William J. Gustave',
+  description: 'A simple Python desktop task manager that helps students organize assignments, deadlines, and priorities.',
   generator: 'v0.app',
   icons: {
     icon: [
