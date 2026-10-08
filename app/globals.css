@@ -159,7 +159,7 @@
   body { margin: 0; background: #f5f3ed; color: #151515; font-family: Arial, Helvetica, sans-serif; }
 }
 
-:root { --ink: #151515; --yellow: #ff6a00; --paper: #f5f3ed; --muted: #77756e; }
+:root { --ink: #151515; --yellow: #f5c400; --paper: #f5f3ed; --muted: #77756e; }
 .site-shell { overflow: hidden; }
 .container { width: min(1120px, calc(100% - 48px)); margin-inline: auto; }
 .nav { display: flex; justify-content: space-between; align-items: center; padding: 25px 0; border-bottom: 1px solid #d8d5cd; }
